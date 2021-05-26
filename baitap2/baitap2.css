@@ -1,0 +1,31 @@
+.form{
+    text-align: center;
+    width: 100%;
+    height: 450px;
+}
+
+fieldset{
+    display: inline-block;
+    text-align: left;
+    border: 2px solid aquamarine;
+    padding: 20px;
+    background-color: darkorchid;
+}
+
+fieldset>div{
+    padding: 5px 0;
+}
+
+input:hover{
+    background-color: rgb(171, 173, 173);
+    border: 1px solid cyan;
+}
+
+label{
+    padding: 20px 0;
+}
+button[type="submit"]{
+    background-color: rgb(171, 173, 173);
+    padding: 5px 6px;
+    border: none;
+}
