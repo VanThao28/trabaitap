@@ -1,0 +1,100 @@
+ul{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    overflow: hidden;
+    background-color:rgb(8, 10, 10) ;
+}
+li{
+   float: left; 
+}
+li>a{
+    margin: 0;
+  padding: 20px 10px; 
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  color: white;
+}
+li a:hover{
+    background-color: yellowgreen;
+}
+form{
+    margin: 10px;
+}
+.fieldset{
+    margin: 0;
+    padding: 0 0 250px 0;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 2px;
+}
+.connect{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    overflow: hidden;
+    background-color:rgb(103, 110, 110) ;
+}
+.connect h1{
+    margin-left: 10px;
+    float: left;
+    color: white;
+}
+.connect>li{
+    float: right;
+    text-align: center;
+}
+a[href="##"]{
+    margin: 0;
+    padding: 30px 13px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    color: white;
+}
+a[href="##"]:hover{
+    background-color: rgb(15, 17, 17);
+}
+
+.form{
+display: inline-block;
+text-align: left;
+}
+.fieldset1{
+width: 300px;
+height: 130px;
+margin-top: 100px;
+margin-left: 15cm;
+border: none;
+}
+.fieldset1 h1{
+text-align: center;
+}
+.taikhoan{
+margin: 10px 0 10px 0;
+color: rgb(10, 12, 12);
+}
+.taikhoan input{
+width: 200px;
+height: 20px;
+border: 1px solid aqua;
+}
+.matkhau{
+margin: 10px 0 10px 0;
+color: rgb(7, 8, 8);
+}
+.matkhau input{
+width: 200px;
+height: 20px;
+border: 1px solid aqua;
+}
+button[type=submit]{
+background-color: aqua;
+padding: 10px 15px;
+margin: 10px 100px 0 100px;
+border: none;
+border-radius: 10px;
+
+}
