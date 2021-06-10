@@ -1,0 +1,40 @@
+.general{
+    font-size: 12px;
+}
+.general-two{
+    font-size: 14px;
+}
+/*chung kiểu*/
+.heard{
+    margin-top: 10px;
+    color: #464646;
+    border-bottom: 1px solid rgb(143, 140, 140);
+}
+.heard .heardheaset{
+    padding: 0 0 0 5px;
+    padding-left: 0;
+}
+.heard .heardheaset .headsetphone{
+    color: #464646;
+    border-right: 1px solid rgb(143, 140, 140);
+    padding-right: 90px;
+}
+a{
+    color: #464646;
+    text-decoration: none;
+}
+a:hover{
+    color: #464646;
+}
+span{
+    padding-left: 5px;
+}
+.map{
+    color: #464646;
+    border-right: 1px solid #464646;
+    padding-right: 110px;
+}
+.acc .account{
+    padding-left: 0;
+    padding-right:0 ;
+}
